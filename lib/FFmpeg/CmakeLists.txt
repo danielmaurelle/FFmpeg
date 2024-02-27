@@ -1,0 +1,12 @@
+# Set FFmpeg Library
+set(FFMPEG_LIB FFmpeg_library)
+
+# Set the paths to the FFmpeg include directory, binaries and libraries
+set(FFMPEG_LIBRARIES_PATH "/opt/homebrew/opt/ffmpeg/lib")
+set(FFMPEG_INCLUDE_DIRS "/opt/homebrew/opt/ffmpeg/include")
+
+# Add FFmpeg libraries
+add_library(${FFMPEG_LIB} IMPORTED STATIC ${FFMPEG_LIBRARIES_PATH})
+
+# Set properties for libaries path and include directories
+set_target_properties(${FFMPEG_LIB} PROPERTIES IMPORTED_LOCATION ${FFMPEG_LIBRARIES_PATH} INTERFACE_INCLUDE_DIRECTORIES ${FFMPEG_INCLUDE_DIRS})
