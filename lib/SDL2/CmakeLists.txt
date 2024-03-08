@@ -1,0 +1,12 @@
+# Set SDL2 Library
+set(SDL2_LIB SDL2_Library)
+
+# Set the paths to the FFmpeg include directory, binaries and libraries
+set(SDL2_LIBRARIES_PATH "/opt/homebrew/Cellar/sdl2/2.30.0/lib")
+set(SDL2_INCLUDE_DIRS "/opt/homebrew/Cellar/sdl2/2.30.0/include")
+
+# Add FFmpeg libraries
+add_library(${SDL2_LIB} IMPORTED STATIC ${SDL2_LIBRARIES_PATH})
+
+# Set properties for libraries path and include directories
+set_target_properties(${SDL2_LIB} PROPERTIES IMPORTED_LOCATION ${SDL2_LIBRARIES_PATH} INTERFACE_INCLUDE_DIRECTORIES ${SDL2_INCLUDE_DIRS})

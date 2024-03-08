@@ -1,0 +1,14 @@
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/CMakeFiles/edit_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/CMakeFiles/rebuild_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/lib/CMakeFiles/edit_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/lib/CMakeFiles/rebuild_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/lib/FFmpeg/CMakeFiles/edit_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/lib/FFmpeg/CMakeFiles/rebuild_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/src/CMakeFiles/edit_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/src/CMakeFiles/rebuild_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/src/mediaplayer/CMakeFiles/Library.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/src/mediaplayer/CMakeFiles/edit_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/src/mediaplayer/CMakeFiles/rebuild_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/app/CMakeFiles/movieplayer.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/app/CMakeFiles/edit_cache.dir
+/Users/danielmaurele/Library/Mobile Documents/com~apple~CloudDocs/Developer/CPP Programming/VS Code/Experimental Projects/MoviePlayer/app/CMakeFiles/rebuild_cache.dir

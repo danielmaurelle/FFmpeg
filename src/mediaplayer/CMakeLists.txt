@@ -1,6 +1,6 @@
 # Set library
-set(LIBRARY_NAME Library)
+set(MEDIAPLAYER_LIB Library)
 
 # Add sources and header files to the library
-add_library(${LIBRARY_NAME} STATIC mediaplayer.cc)
-target_include_directories(${LIBRARY_NAME} PUBLIC "./")
+add_library(${MEDIAPLAYER_LIB} STATIC mediaplayer.cc)
+target_include_directories(${MEDIAPLAYER_LIB} PUBLIC "./")
